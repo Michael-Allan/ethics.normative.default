@@ -60,32 +60,36 @@ Law
               developing its concept from the ground by inference and reflection.
     - We begin on the theoretic track, then, by taking the steps of the hypothesis.
     - We acknowledge the rule, reinterpret it as a norm and think to apply it.
-    - The rule being formed by causal analysis of its object, it comprises just these formal elements:
+    - The rule being formed by causal analysis of its object, it has one formal element:
 
-        a) Necessity, whereby it is universal and absolute
-        b) A causal relation to its object, a rational community
+        a) A causal relation to the object, a rational community
 
-        causal rule: (a, b)
+        causal rule: (a)
 
-    / The formula previously given for the rule merely made explicit what is, in any case,
-      already present in the conjunction of formal elements (a, b).
-        : re `formula previously given` see `^*causal rule:.+community`
-    - The same formal elements must constitute the norm.
-    - Here they are in normative terms:
+    - Its one formal element aside, the rule is empty.
+        / The expanded formula that I gave previously for the rule merely made explicit what is,
+          in any case, already present in its object.
+            : re `expanded formula.+previously` see `^*causal rule:.+community`
+    - Translating it into a normative context yields *two* formal elements.
 
-        a) The form of law
-        b) A rational community as its end
+        a) A rational community as the end
+        b) The form of law
 
+    - What holds conditionally in the rule, namely the existence of a rational community,
+      must hold unconditionally in the normative translation.
+        - Therefore the end to which it translates (a) must be expressed as necessary.
+        - The norm must be absolute and universal, and this requires the form of law (b).
+    - These two formal elements aside, the resulting norm (like the rule) is empty.
     - Call it therefore *the normative law of rational community*, for the name says it all.
-    - In abstract of its formal elements, the law (like the rule) is empty.
 
         normative law: (a, b)
 
     - This confirms the fidelity of the translation.
-    - Not only does it mirror the causal rule in form, but it reproduces the basic thought
-      behind this conception of morality: *stewardship of the community is right*.
-        : see `^*- We had seen ourselves acting as stewards of the community`
-    - The conception is deontic, yet the resulting law remains determinative (b) — a law of rational
+    - Not only does the result mirror the causal rule in its formal emptiness, but it reproduces
+      the basic thought behind this conception of morality: caring for the community (a) is right (b).
+        : re `caring for the (community)` see `^*- We had seen ourselves acting as stewards of the ${1}`
+        : re `is (right)`                 see `^*- We came to think it ${1}`
+    - The conception is deontic, yet the resulting law remains determinative (a) — a law of rational
       community — one could not properly understand and follow it except as a means to that end.
     - What we have in mind, therefore, is to do just that: to adopt the law and follow it as a means
       of determining the community.
