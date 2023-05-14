@@ -1,22 +1,29 @@
 Grounding
 
     - Here I begin my sketch of a normative ethic.
-    - In this part of the sketch, I ground the ethic and infer an autotelic principle of reason.
+    - In this part of the sketch, I ground the ethic and infer a principle of reason, one that stipulates
+      a particular form of rationality as a necessary end for all rational agents, namely a lineal form.
     - My grounds for that inference are two.
     - One ground I think is beyond dispute.
 
         axiom: No line of rational agents has a zero probability of extinction.
 
-    - The other ground I will prove as a theorem.
+    - I speak of finite rational agents.
+        - Being finite, they cannot infallibly predict their existence at a given future time.
+        - Being rational, they must assume that always, in the interval,
+          they face a non-zero probability of extinction.
+
+
+    ⋮
 
         theorem: No line of rational agents can avoid extinction
-          without an autotelic principle of reason.
+          without a lineal-autotelic principle of reason.
 
-    - It follows that reason includes an autotelic principle.
-    - As the author of its own content, if reason were to exclude an autotelic principle,
-      then reason would be auto-destructive.
-    - That would be absurd.
-    - Therefore reason includes an autotelic principle.
+    - It follows that reason includes a lineal-autotelic principle.
+    - As the author of its own content, if reason were to exclude a lineal-autotelic principle,
+      then reason would burden all its agents with the prospect of certain extinction.
+    - It would be auto-destructive and loathsome, and that would be an absurd conclusion.
+    - Therefore reason includes a lineal-autotelic principle.
 
 
 
