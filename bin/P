@@ -8,14 +8,14 @@ import static java.lang.System.exit;
 import static java.lang.System.out;
 
 
-/** A calculator of the likelihood of an event of decaying probability.  The calculation is a sum
+/** A calculator of the likelihood (P) of an event of decaying probability.  The calculation is a sum
   * over a large number of trials (t = 1, 2, 3, …) using two parameters: the initial per-trial
   * probability 0 ≤ p ≤ 1 of the event; and the per-trial decay rate 0 ≤ δ ≤ 1 of the probability
   * (applied after each trial), where δ = 1 yields a constant probability. *//*
   *
   *   https://math.stackexchange.com/questions/4692693/bernoulli-series-with-decaying-probability-p
   */
-class Likelihood {
+class P {
 
 
     public static void main( final String[] arguments ) {
@@ -24,14 +24,14 @@ class Likelihood {
         if( n != 2 ) {
             err.println( commandName + ": Expecting 2 arguments, found " + n );
             exitWithUsage( 1 ); }
-        new Likelihood().run( /*p*/parseDouble(arguments[0]), /*δ*/parseDouble(arguments[1]) ); }
+        new P().run( /*p*/parseDouble(arguments[0]), /*δ*/parseDouble(arguments[1]) ); }
 
 
 
 ////  P r i v a t e  ////////////////////////////////////////////////////////////////////////////////////
 
 
-    static final String commandName = "likelihood";
+    static final String commandName = "P";
 
 
 
@@ -42,7 +42,8 @@ class Likelihood {
 
 
     static void exitWithUsage( final int status ) {
-        out.println( commandName + ": Likelihood of an event of probability p, decaying at rate δ" );
+        out.println( commandName +
+          ": Likelihood of an event of initial probability p, decaying at rate δ" );
         out.println( "Usage: " + commandName + " p δ" );
         out.println( "       " + commandName + " -help | -?" );
         exit( status ); }

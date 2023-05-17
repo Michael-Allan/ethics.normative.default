@@ -15,7 +15,7 @@ import static java.math.BigDecimal.ZERO;
 import static java.math.RoundingMode.HALF_EVEN;
 
 
-/** A calculator of the likelihood of an event of decaying probability.  The calculation is a sum
+/** A calculator of the likelihood (P) of an event of decaying probability.  The calculation is a sum
   * over a large number of trials (t = 1, 2, 3, …) using two parameters: the initial per-trial
   * probability 0 ≤ p ≤ 1 of the event; and the per-trial decay rate 0 ≤ δ ≤ 1 of the probability
   * (applied after each trial), where δ = 1 yields a constant probability.
@@ -25,7 +25,7 @@ import static java.math.RoundingMode.HALF_EVEN;
   *
   *   https://math.stackexchange.com/questions/4692693/bernoulli-series-with-decaying-probability-p
   */
-class LikelihoodPrecise {
+class PPrecise {
 
 
     public static void main( final String[] arguments ) {
@@ -38,7 +38,7 @@ class LikelihoodPrecise {
             if( n != 2 ) {
                 err.println( commandName + ": Expecting 2 or 3 arguments, found " + n );
                 exitWithUsage( 1 ); }}
-        new LikelihoodPrecise().run( /*p*/new BigDecimal(arguments[0]),
+        new PPrecise().run( /*p*/new BigDecimal(arguments[0]),
                                      /*δ*/new BigDecimal(arguments[1]), precision ); }
 
 
@@ -46,7 +46,7 @@ class LikelihoodPrecise {
 ////  P r i v a t e  ////////////////////////////////////////////////////////////////////////////////////
 
 
-    static final String commandName = "likelihood";
+    static final String commandName = "P-precise";
 
 
 
@@ -57,7 +57,8 @@ class LikelihoodPrecise {
 
 
     static void exitWithUsage( final int status ) {
-        out.println( commandName + ": Likelihood of an event of probability p, decaying at rate δ" );
+        out.println( commandName +
+          ": Likelihood of an event of initial probability p, decaying at rate δ" );
         out.println( "Usage: " + commandName + " p δ [precision]" );
         out.println( "       " + commandName + " -help | -?" );
         exit( status ); }
