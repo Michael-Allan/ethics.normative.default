@@ -52,6 +52,9 @@ Lemma
         - Again the result would be 1.
     - The only way to get a different result is to engage with the infinite length of the series,
       decreasing \(p\) over the whole of it, or over some unbounded part.
+        : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘The way is to the destructive element
+          submit yourself, and with the exertions of your hands and feet in the water
+          make the deep, deep sea keep you up.  … In the destructive element immerse.’  pp. 685-6.
     - To demonstrate, let \(p\) be the probability of the line’s extinction in the first year;
                           \(\delta\) the annual decay rate of \(p\); and
                           \(\epsilon\) the complement of \(\delta\), such that \(\epsilon = 1 - \delta\).
