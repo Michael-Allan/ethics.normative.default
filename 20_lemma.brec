@@ -71,35 +71,36 @@ Lemma
 
                                     Table, Survival probability.
 
-                                                 % δ
-       
-                      .02   .04   .06   .08   .10   .20   .30   .40   .50   .60
-                   ┌─────────────────────────────────────────────────────────────┐
-                   │                                                             │
-               .05 │  8.2  28.6  43.4  53.5  60.6  77.9  84.6  88.2  90.5  92.0  │  4.9
-                   │                                                             │
-               .10 │   .6   8.2  18.9  28.6  36.8  60.6  71.6  77.9  81.9  84.6  │  9.5
-         % p       │                                                             │        % p / century
-               .20 │         .7   3.6   8.2  13.5  36.8  51.3  60.6  67.0  71.6  │ 18.1
-                   │                                                             │
-               .40 │               .1    .7   1.8  13.5  26.3  36.8  44.9  51.3  │ 33.0
-                   │                                                             │
-               .60 │                     .1   0.2   5.0  13.5  22.3  30.1  36.7  │ 45.2
-                   │                                                             │
-               .80 │                                1.8   6.9  13.5  20.1  26.3  │ 55.2
-                   │                                                             │
-                   └─────────────────────────────────────────────────────────────┘
-                      2.0   3.9   5.8   7.7   9.5  18.1  26.0  33.0  39.4  45.2
-       
-                                             % δ / century
+                                               % δ
+     
+                    .02   .04   .06   .08   .10   .20   .30   .40   .50   .60
+                 ┌─────────────────────────────────────────────────────────────┐
+                 │                                                             │
+             .05 │  8.2  28.6  43.4  53.5  60.6  77.9  84.6  88.2  90.5  92.0  │  4.9
+                 │                                                             │
+             .10 │   .6   8.2  18.9  28.6  36.8  60.6  71.6  77.9  81.9  84.6  │  9.5
+       % p       │                                                             │        % p / century
+             .20 │         .7   3.6   8.2  13.5  36.8  51.3  60.6  67.0  71.6  │ 18.1
+                 │                                                             │
+             .40 │               .1    .7   1.8  13.5  26.3  36.8  44.9  51.3  │ 33.0
+                 │                                                             │
+             .60 │                     .1   0.2   5.0  13.5  22.3  30.1  36.7  │ 45.2
+                 │                                                             │
+             .80 │                                1.8   6.9  13.5  20.1  26.3  │ 55.2
+                 │                                                             │
+                 └─────────────────────────────────────────────────────────────┘
+                    2.0   3.9   5.8   7.7   9.5  18.1  26.0  33.0  39.4  45.2
+     
+                                           % δ / century
 
-           Shown is the percent probability of avoiding extinction while subject to an extinction rate
-           (% p) which itself is subject to a rate of decay (% δ).  Rates are expressed as percentages
-           both per year (left, top) and per century (right, bottom).  Results are computed to the point
-           of convergence using the mathematic model given in the text.  Values are rounded to a single
-           decimal place and omitted where they round to zero.
-                : re `mathematic model given in the text` see
-                  `^*- Let.+(p.+be the probability of.+extinction in the first year`
+             Shown is the percent probability of avoiding extinction while subject to
+             an extinction rate (% p) which itself is subject to a rate of decay (% δ).
+             Rates are expressed as percentages both per year (left, top) and per century
+             (right, bottom).  Results are computed to the point of convergence using
+             the mathematic model given in the text.  Values are rounded to a single
+             decimal place and omitted where they round to zero.
+                                        : re `mathematic model given in the text` see
+                                          `^*- Let.+p.+probability of.+extinction in the first year`
 
     ⋮
 
