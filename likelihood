@@ -2,6 +2,7 @@
 package scratch;
 
 import static java.lang.Double.parseDouble;
+import static java.lang.Math.pow;
 import static java.lang.System.err;
 import static java.lang.System.exit;
 import static java.lang.System.out;
@@ -73,6 +74,7 @@ class Likelihood {
         testParameter( p );
         testParameter( δ );
         final double δInverse = 1d - δ;
+        final double p0 = p;
         do {
             qCumulative *= 1d - pLast;
             final double pJustNow/*earlier failure *and* occurence on the present trial*/ =
@@ -85,7 +87,14 @@ class Likelihood {
                 else tReport += trialReportInterval; }
             pLast = p;
             p *= δInverse; }
-            while( ++t <= trialsMaximum ); }
+            while( ++t <= trialsMaximum );
+        out.println();
+        out.println( "  % p0 = " + p0 * 100d + "                (p initial)" );
+        out.println( "       = " + (1d - pow(1d-p0,100)) * 100d + " / century" );
+        out.println( "   % δ = " + δ * 100d );
+        out.println( "       = " + (1d - pow(δInverse,100)) * 100d + " / century" );
+        out.println( "   % P = " + pCumulative * 100d + "  (extinction)" );
+        out.println( "   % Q = " + (1d - pCumulative) * 100d + "  (survival)" ); }
 
 
 
@@ -106,7 +115,7 @@ class Likelihood {
 
 
 
-    static final int trialReportInterval = 1000;
+    static final int trialReportInterval = 10000;
 
 
 
