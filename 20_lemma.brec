@@ -1,8 +1,8 @@
 Lemma
 
     - Here I begin my sketch of a normative ethic.
-    - In this part of the sketch, I ground the ethic and infer a principle of reason, one that stipulates
-      a particular form of rationality as a necessary end for all rational agents, namely a lineal form.
+    - I ground the ethic and infer a principle of reason, one that stipulates
+      a lineal form of rationality as a necessary end.
     - My grounds for that inference are two.
     - One ground I think is beyond dispute.
 
@@ -52,9 +52,9 @@ Lemma
         - Again the result would be 1.
     - The only way to get a different result is to engage with the infinite length of the series,
       decreasing \(p\) over the whole of it, or over some unbounded part.
-        : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘The way is to the destructive element
+        : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘… to the destructive element
           submit yourself, and with the exertions of your hands and feet in the water
-          make the deep, deep sea keep you up.  … In the destructive element immerse.’  pp. 685-6.
+          make the deep, deep sea keep you up.’  p. 685.
     - Let \(p\) be the probability of the line’s extinction in the first year;
           \(\delta\) the annual decay rate of \(p\); and
           \(\epsilon\) the complement of \(\delta\), such that \(\epsilon = 1 - \delta\).
