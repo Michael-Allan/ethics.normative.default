@@ -22,7 +22,7 @@ Lemma
       plus probability that it survives the first two years and goes extinct in the third (\(q^2p\)),
       and so on.
 
-          $$\large \begin{align} \mathbf{P}
+          $$\begin{align} \mathbf{P}
               & = p + pq + pq^2 + \cdots \\[1ex]
               & = \sum_{t=0}^\infty pq^t \end{align}$$
 
@@ -32,7 +32,7 @@ Lemma
         : re `axiomatic constraint` see `^*axiom`
     - From the latter, it evaluates to 1.
 
-          $$\large \begin{align} \mathbf{P}
+          $$\begin{align} \mathbf{P}
               & = \sum_{t=0}^\infty ar^t &&a = p,\; r = q     \\[1ex]
               & = \frac a {1 - r}        &&\lvert r\rvert < 1 \\[1ex]
               & = \frac p {1 - q}        &&q < 1              \\[1ex]
@@ -60,7 +60,7 @@ Lemma
           \(\epsilon\) the complement of \(\delta\), such that \(\epsilon = 1 - \delta\).
     - Then:
 
-          $$\large \begin{align} \mathbf{P}
+          $$\begin{align} \mathbf{P}
               & = p + p\epsilon (1 - p) + p\epsilon^2 (1 - p)(1 - p\epsilon) + \cdots \\[1ex]
               & = \sum_{t=0}^\infty p\epsilon^t \prod_{u=0}^{t-1} (1 - p\epsilon^u)   \\[1ex]
               & = \sum_{t=0}^\infty p\epsilon^t (p;\epsilon)_t                        \end{align}$$
@@ -74,21 +74,21 @@ Lemma
                                                % δ
      
                     .02   .04   .06   .08   .10   .20   .30   .40   .50   .60
-                 ┌─────────────────────────────────────────────────────────────┐
-                 │                                                             │
-             .05 │  8.2  28.6  43.4  53.5  60.6  77.9  84.6  88.2  90.5  92.0  │  4.9
-                 │                                                             │
-             .10 │   .6   8.2  18.9  28.6  36.8  60.6  71.6  77.9  81.9  84.6  │  9.5
-       % p       │                                                             │        % p / century
-             .20 │         .7   3.6   8.2  13.5  36.8  51.3  60.6  67.0  71.6  │ 18.1
-                 │                                                             │
-             .40 │               .1    .7   1.8  13.5  26.3  36.8  44.9  51.3  │ 33.0
-                 │                                                             │
-             .60 │                     .1   0.2   5.0  13.5  22.3  30.1  36.7  │ 45.2
-                 │                                                             │
-             .80 │                                1.8   6.9  13.5  20.1  26.3  │ 55.2
-                 │                                                             │
-                 └─────────────────────────────────────────────────────────────┘
+                 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
+                 ┃                                                             │
+             .05 ┃  8.2  28.6  43.4  53.5  60.6  77.9  84.6  88.2  90.5  92.0  │  4.9
+                 ┃                                                             │
+             .10 ┃   .6   8.2  18.9  28.6  36.8  60.6  71.6  77.9  81.9  84.6  │  9.5
+       % p       ┃                                                             │        % p / century
+             .20 ┃         .7   3.6   8.2  13.5  36.8  51.3  60.6  67.0  71.6  │ 18.1
+                 ┃                                                             │
+             .40 ┃               .1    .7   1.8  13.5  26.3  36.8  44.9  51.3  │ 33.0
+                 ┃                                                             │
+             .60 ┃                     .1   0.2   5.0  13.5  22.3  30.1  36.7  │ 45.2
+                 ┃                                                             │
+             .80 ┃                                1.8   6.9  13.5  20.1  26.3  │ 55.2
+                 ┃                                                             │
+                 ┖─────────────────────────────────────────────────────────────┘
                     2.0   3.9   5.8   7.7   9.5  18.1  26.0  33.0  39.4  45.2
      
                                            % δ / century
