@@ -27,9 +27,12 @@ Lemma
               & = \sum_{t=0}^\infty pq^t \end{align}$$
 
     - This is a Bernoulli series.
+        : see https://en.wikipedia.org/wiki/Bernoulli_process
     - Given the axiomatic constraint that \(p > 0\) (whereby \(q < 1\)), it is also a geometric series
       with a closed-form expression.
         : re `axiomatic constraint` see `^*axiom`
+        : re `geometric series`       see https://en.wikipedia.org/wiki/Geometric_series
+        : re `closed-form expression` see https://en.wikipedia.org/wiki/Geometric_series#Formulation
     - From the latter, it evaluates to 1.
 
           $$\begin{align} \mathbf{P}
@@ -52,9 +55,9 @@ Lemma
         - Again the result would be 1.
     - The only way to get a different result is to engage with the infinite length of the series,
       decreasing \(p\) over the whole of it, or over some unbounded part.
-        : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘… to the destructive element
-          submit yourself, and with the exertions of your hands and feet in the water
-          make the deep, deep sea keep you up.’  p. 685.
+        : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘The way is to the destructive element submit
+          yourself, and with the exertions of your hands and feet in the water make the deep, deep sea
+          keep you up.’  p. 685.
     - Let \(p\) be the probability of the line’s extinction in the first year;
           \(\delta\) the annual decay rate of \(p\); and
           \(\epsilon\) the complement of \(\delta\), such that \(\epsilon = 1 - \delta\).
@@ -65,7 +68,12 @@ Lemma
               & = \sum_{t=0}^\infty p\epsilon^t \prod_{u=0}^{t-1} (1 - p\epsilon^u)   \\[1ex]
               & = \sum_{t=0}^\infty p\epsilon^t (p;\epsilon)_t                        \end{align}$$
 
-    - I found no closed form for this series.
+    - This is a q-series.
+        : see http://simonrs.com/eulercircle/infiniteseries/steven-qseries.pdf : *Q-series*
+        : see https://faculty.math.illinois.edu/~berndt/articles/q.pdf : What is a Q-series?
+    - I found no closed form for it.
+        : see e.g. https://math.stackexchange.com/q/4692693/1178074 :
+          Bernoulli series with decaying probability \(p\)
     - The following results are computed numerically.
 
 
