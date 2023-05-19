@@ -58,8 +58,7 @@ Lemma
         : cf. `^*Conrad.+Lord Jim` @ bibliography.brec : ‘The way is to the destructive element submit
           yourself, and with the exertions of your hands and feet in the water make the deep, deep sea
           keep you up.’  p. 685.
-    - Let \(p\) be the probability of the line’s extinction in the first year;
-          \(\delta\) the annual decay rate of \(p\); and
+    - Let \(\delta\) be the annual decay rate of \(p\); and
           \(\epsilon\) the complement of \(\delta\), such that \(\epsilon = 1 - \delta\).
     - Then:
 
@@ -104,11 +103,12 @@ Lemma
              Shown is the percent probability of avoiding extinction while subject to
              an extinction rate (% p) which itself is subject to a rate of decay (% δ).
              Rates are expressed as percentages both per year (left, top) and per century
-             (right, bottom).  Results are computed to the point of convergence using
-             the mathematic model given in the text.  Values are rounded to a single
+             (right, bottom).  The extinction rates shown (left, right) are initial values
+             operative in the first year.  Results are computed to the point of convergence
+             using the mathematic model given in the text.  Values are rounded to a single
              decimal place and omitted where they round to zero.
                                         : re `mathematic model given in the text` see
-                                          `^*- Let.+p.+probability of.+extinction in the first year`
+                                          `^*- Let.+delta.+be the annual decay rate`
 
     ⋮
 
