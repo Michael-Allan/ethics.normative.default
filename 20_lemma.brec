@@ -26,7 +26,7 @@ Lemma
               & = p + pq + pq^2 + \cdots \\[1ex]
               & = \sum_{t=0}^\infty pq^t \end{align}$$
 
-    - This is a Bernoulli series.
+    - This is a Bernoulli-process series.
         : see https://en.wikipedia.org/wiki/Bernoulli_process
     - Given the axiomatic constraint that \(p > 0\) (whereby \(q < 1\)), it is also a geometric series
       with a closed-form expression.
@@ -51,7 +51,7 @@ Lemma
     - Nor would it help to decrease \(p\) over a period of time,
       then leave it constant (or randomly varying).
         - However low \(p\) might eventually be driven, and assuming the line were to survive
-          to that point, then effectively it would be back into another Bernoulli series.
+          to that point, then effectively it would be back into another Bernoulli process.
         - Again the result would be 1.
     - The only way to get a different result is to engage with the infinite length of the series,
       decreasing \(p\) over the whole of it, or over some unbounded part.
@@ -73,7 +73,7 @@ Lemma
         : see https://faculty.math.illinois.edu/~berndt/articles/q.pdf : What is a Q-series?
     - I found no closed form for it.
         : see e.g. https://math.stackexchange.com/q/4692693/1178074 :
-          Bernoulli series with decaying probability \(p\)
+          *Bernoulli-process series with decaying probability \(p\)*
     - The following results are computed numerically.
 
 
