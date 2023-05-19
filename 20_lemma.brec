@@ -110,6 +110,20 @@ Lemma
                                         : re `mathematic model given in the text` see
                                           `^*- Let.+delta.+be the annual decay rate`
 
+    - For a line of agents to endure, the near-term probability of its extinction (\(p\))
+      must decline and keep declining forever.
+    - Consider what might sustain such a decline.
+    - It could not be chance.
+        - What chance sustained, chance could terminate.
+        - The decline of \(p\) would itself face extinction, so to speak.
+        - Here the prospects for chance are doomed in a regress on conditions:
+            - With the decline of \(p\) exposed to its own, near-term probability of extinction (\(p'\)),
+              \(p'\) too would have to decline in order to salvage the decline of \(p\).
+            - But then the decline of \(p'\) would be exposed to its own probability
+              of extinction (\(p''\)), and so on.
+    - That leaves only necessity.
+        - For a line of rational agents, necessity could be either physical or rational.
+        - If physical, then the decline of \(p\) would be sustained by a law of nature.
     ⋮
 
         lemma: No line of rational agents can avoid extinction unless there exists
