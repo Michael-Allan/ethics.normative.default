@@ -106,35 +106,7 @@ Lemma
 
     - For a line of agents to endure, the near-term probability of its extinction (\(p\))
       must decline and keep declining forever.
-    - Consider what might sustain such a decline.
-    - For a line of rational agents, there are just three possibilities:
-
-        (a) chance
-        (b) physical necessity
-        (c) rational necessity
-
-    (a) Could the decline of \(p\) be sustained by chance?
-        - No; what chance sustained, chance could terminate.
-        - The decline of \(p\) would itself face extinction, so to speak.
-        - Here the prospects for chance are doomed in a regress on conditions.
-            - With the decline of \(p\) exposed to its own, near-term probability of extinction (\(p'\)),
-              \(p'\) too would have to decline in order to salvage the decline of \(p\).
-            - But then the decline of \(p'\) would be exposed to its own probability
-              of extinction (\(p''\)), and so on.
-        !! Chance branching alone might suffice to avoid extinction.
-            : join @ ~/work/ethic/._/04_law_or_extinction/20_lemma.working_notes.brec
-            : contra `prospects for chance are doomed in a regress on conditions`
-            - For chance might suffice to branch a line and thereby steadily decrease the near-term
-              probability (\(p'\)) of its own extinction, just as deliberate branching would.
-            : private
-    (b) Could the decline of \(p\) be sustained by physical necessity?
-        - Then it would be sustained by a law of nature.
-        - Then there might be evidence for it.
-        - Yet there is evidence against it.
-            - The existential risk for humanity has not decreased over the last century,
-              it has increased.
-        - If such law exists, then it must operate at longer time scales.
-        - Consider the physical means by which \(p\) might decrease indefinitely.
+    - Consider what might sustain such a decline… means by which \(p\) might decrease indefinitely.
         - One such means (presently out of reach, but potentially feasible in future) is branching.
             - A line of agents would split off into existentially-isolated branches,
               each more-or-less independent in regard to its own existential risk.
@@ -143,18 +115,6 @@ Lemma
                 - All of its branches would have to go extinct in a relatively short period of time;
                   short enough, that is, that branches during the interval failed to split off
                   enough new branches to stem the loss and avoid overall extinction.
-        - It does seem plausible that lines would branch.
-        - Suppose there exists a stochastic law, one that generates a branching tendency
-          sufficient to nudge \(p\) on a downward trend.
-        - Could that indeed be a law of nature?
-            ⋮
-
-    (c) Could the decline of \(p\) be sustained by rational necessity?
-            ⋮
-
-
-        lemma: No line of rational agents can avoid extinction unless there exists
-          a lineal-autotelic principle of reason.
 
 
 
