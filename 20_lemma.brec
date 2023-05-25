@@ -121,6 +121,12 @@ Lemma
               \(p'\) too would have to decline in order to salvage the decline of \(p\).
             - But then the decline of \(p'\) would be exposed to its own probability
               of extinction (\(p''\)), and so on.
+        !! Chance branching alone might suffice to avoid extinction.
+            : join @ ~/work/ethic/._/04_law_or_extinction/20_lemma.working_notes.brec
+            : contra `prospects for chance are doomed in a regress on conditions`
+            - For chance might suffice to branch a line and thereby steadily decrease the near-term
+              probability (\(p'\)) of its own extinction, just as deliberate branching would.
+            : private
     (b) Could the decline of \(p\) be sustained by physical necessity?
         - Then it would be sustained by a law of nature.
         - Then there might be evidence for it.
