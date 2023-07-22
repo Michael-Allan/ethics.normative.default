@@ -11,12 +11,11 @@
 
         axiom: No line of rational agents has a zero probability of extinction.
 
-    - I speak of finite rational agents.
-        - Being finite, they cannot infallibly predict their existence at a given future time.
-        - Being rational, they must assume that always, in the interval,
-          they face a non-zero probability of extinction.
+    - I speak of finite agents.
+        - Never can they infallibly predict their existence at a given future time.
+        - Always they face a non-zero probability of extinction.
     - The consequences of this can be modelled mathematically.
-    - Let \(t\) be the year in the future of a line of (finite) rational agents;
+    - Let \(t\) be the year in the future of a line of (finite) agents;
           \(p\) the probability per year of the line’s extinction;
           \(q\) the probability per year of its survival, such that \(q = 1 - p\); and
           \(\mathbf{P}\) the overall probability that the line ever goes extinct.
