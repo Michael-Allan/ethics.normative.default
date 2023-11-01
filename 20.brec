@@ -21,12 +21,13 @@
     - now let us regard this proposition as given, momentarily, that we may learn what entailments follow
         - for any entailment that turns out to be a fact will vouch for the truth of the proposition,
           and might moreover yield a clue to the value of \(O\)
-    - the entailments include, by the following axiom, further duties
+    - this form of analysis may proceed from the proposition along two chains of inference:
+      one of entailed duties, the other of entailed rights
+    - the former is the more robust
+    - it begins with the following axiom
 
         axiom: having a duty to \(\phi\), one thereby has a duty to all that necessarily
           attends \(\phi\)-ing; to each of its conditions and entailments, that is
-
-            / this is analytic
 
 
 
