@@ -20,10 +20,13 @@ exploratory analysis
 
         = each has a moral duty to take \(O\) as an end
 
-    - now let us regard this proposition as given, momentarily, that we may learn
-      what entailments follow; for any entailment that turns out to be a fact
+    - now let us regard this proposition as given, momentarily, that we may analyze it
+      and learn what entailments follow; for any entailment that turns out to be a fact
       will vouch for the truth of the proposition, and might moreover yield a clue to the value of \(O\)
-    - this form of analysis may proceed from the proposition along two chains of inference:
+
+        duty: to take \(O\) as an end
+
+    - the analysis may proceed from here along two chains of inference:
       one of entailed duties, the other of entailed rights
     - the inference of entailed duties is the more robust of the two
         - it begins with the following axiom
@@ -39,7 +42,7 @@ exploratory analysis
             - thus I commit to self-made action, so binding myself by a pledge *to* myself
             - making this pledge is the \(\phi\) of the duty to which I am bound
                 : re `the.+(phi).+of the duty` see `^*axiom: having a duty to.+${1}`
-                : re `to which I am bound` see `^*= each has a.+duty to take.+O.+as an end$`
+                : re `to which I am bound` see `^*duty: to take.+O.+as an end$`
         - but this pledge is conditional on my believing that self-made action lies in my power,
           or that it will in future
             ∵ one cannot, in conformance to a duty to pledge, make that pledge but sincerely
@@ -65,6 +68,9 @@ exploratory analysis
             : ad `maintain the power of self-made action` : one could accomplish only its maintenance,
               not bringing it about in the first place, for in the absence of such a power
               one could accomplish no action at all
+
+            duty: to maintain one’s power of self-made action
+
         - but one’s power of self-made action is conditional on personal security and freedom of action
             ∵ action can be self-made only if it occurs with one’s assent, under one’s control and timing
                 / such action is not a part of will, but would here be ushered in by will
@@ -80,8 +86,12 @@ exploratory analysis
                     : re `control and timing` see `action can be self-made only.+under one’s ${same}`
         ∴ I am duty-bound to maintain (in some degree) the personal security and freedom of action
           which I believe I have, or will have
-            : ad `duty.+to maintain` : note that if this duty of maintenance is taken literally
-              (and its inference as such is sound), then it is a perfect duty
+            : ad `duty.+to maintain` : note that if these duties of maintenance are taken literally
+              (and their inference as such is sound), then they are perfect duties
+
+            duty: to maintain one’s personal security
+
+            duty: to maintain one’s freedom of action
 
         - the present chain of inference is strong, I think
         - yet the conclusion we reach seems relatively weak in its congruence with reality
