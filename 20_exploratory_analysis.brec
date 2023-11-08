@@ -105,8 +105,31 @@ exploratory analysis
                   duty would be satisfied by a minimum
                     : re `duty.+satisfied by a minimum` see `^*∴ I am.+bound to maintain.+in some degree`
             - as to clues to the value of \(O\), let us leave that for a moment,
-              while we see what the other chain has to offer
+              while we see what the other chain of inference has to offer
                 : re `clues (to the value of.+O.\))` see `and might moreover yield a clue ${same}$`
+    - we turn now to the inference of entailed rights
+        - looking back to the original proposition, which we take as given,
+          note that it pertains to an unqualified ‘each’ of us
+            : see `^*= each has a moral duty to take.+O.+as an end$`
+            - this makes the proposition an absolute principle, or what I will call a law
+            - it is thereby universal
+        - with this definition of law, consider the following, further principle
+
+            principle: what law enjoins by duty it entitles by right;
+              having a duty to \(\phi\), one thereby has a right to \(\phi\)
+
+        - it is a weak principle
+            - it rests on this logic:
+                - each has the same duty, for it is universal by law
+                ∴ non-conformance *by anyone* would be wrong
+                ∴ the promotion of non-conformance in another, so hindering them in their duty,
+                  would also be wrong
+            - yet non-conformance and its promotion are two different things, and their moral equation
+              here wants some further argument to justify it, which I cannot supply
+        - acknowledging this weakness, let us accept the principle in an exploratory spirit
+          and learn what follows, for I have found that the conclusion yields hints
+          to putting the argument on a better footing
+            / the inferences that follow are accordingly weak
 
 
 
