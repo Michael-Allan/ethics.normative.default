@@ -158,6 +158,10 @@ exploratory analysis
             right: to maintain one’s freedom of action
                 : re `right: (.+)` see `^*duty: ${same}$`
 
+        / alternatively we might have applied the foregoing principle repeatedly in order to infer
+          these rights, each in turn directly from its corresponding duty in the preceding chain
+            : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
+
 
 
                                                                        \ Copyright © 2023  Michael Allan.
