@@ -14,11 +14,11 @@ exploratory analysis
         → \(O\) ought to be
 
     - here the variable \(O\) stands for a prospective action or state of affairs — namely an object
-    - meanwhile, the contextual ‘ought’ makes it an object each person would have a moral duty
+    - meanwhile, the contextual ‘ought’ makes it an object each person would have a duty
       to direct themselves to, intent on realizing it — namely a morally incumbent end
     - equivalently then:
 
-        = each has a moral duty to take \(O\) as an end
+        = each has a duty to take \(O\) as an end
 
     - now let us regard this proposition as given, momentarily, that we may analyze it
       and learn what entailments follow; for any entailment that turns out to be a fact
@@ -98,9 +98,9 @@ exploratory analysis
             - for this is about as close to a fact as we are likely to get,
               and the gap remains fairly large
                 : re `fact` see `any entailment that.+be.+will vouch for the truth of the proposition`s
-                    : re `proposition` see `^*= each has a moral duty to take.+O.+as an end$`
+                    : re `proposition` see `^*= each has a duty to take.+O.+as an end$`
                 ∵ while almost all strive to maintain their security and freedom,
-                  relatively few would consider it a moral duty
+                  relatively few would consider it a duty
                 ∵ while almost all strive to maintain their security and freedom near a maximum,
                   duty would be satisfied by a minimum
                     : re `duty.+satisfied by a minimum` see `^*∴ I am.+bound to maintain.+in some degree`
@@ -110,7 +110,7 @@ exploratory analysis
     - we turn now to the inference of entailed rights
         - looking back to the original proposition, which we take as given,
           note that it pertains to an unqualified ‘each’ of us
-            : see `^*= each has a moral duty to take.+O.+as an end$`
+            : see `^*= each has a duty to take.+O.+as an end$`
             - this makes the proposition an absolute principle, or what I will call a law
         - with this definition of law, consider the following, further principle
 
@@ -125,8 +125,8 @@ exploratory analysis
                 ∴ non-conformance *by anyone* would be wrong
                 ∴ promoting non-conformance in another by hindering them in their duty
                   would also be wrong
-            - yet non-conformance and its promotion are two different things, and their moral equation
-              here wants some further argument to justify it, which I cannot supply
+            - yet non-conformance and its promotion are two different things, and their normative
+              equation here wants some further argument to justify it, which I cannot supply
         - acknowledging this weakness, let us accept the principle in an exploratory spirit
           and learn what follows, for I have found that the conclusion yields hints
           to putting the argument on a surer footing
@@ -165,7 +165,7 @@ exploratory analysis
           its conclusion agrees better with reality
             : cf. `^*- yet the conclusion.+seems relatively weak in its congruence with reality$` @
               `^*- the inference of entailed duties`
-            - rights of security and freedom are almost everywhere acknowledged as moral precepts
+            - rights of security and freedom are almost everywhere acknowledged
                 / paid lip service, if not upheld
         - yet with the derivation of these rights being uncertain here, their agreement with reality
           does little to vouch for the truth of the original proposition
