@@ -1,42 +1,75 @@
 
     - take ‘ought’ in the moral sense
-    - the question then would be:
+    - the question then is, ‘ought we to endure?’
+    - an affirmative answer might be supported by an argument of the form:
 
-        • ought we to endure?
+              $${T \land (T \to A)\over A}$$
 
-    - but let the leading question be broader than this, more exploratory
+        - premising a truth \(T\), and making a series of inferences from \(T\) to \(A\),
+          the argument would conclude with the answer \(A\)
+            : note : this is simply modus ponens
+                : see e.g. `^*Klement.+Propositional logic` @ bibliography.brec : § 5b, cited 2023-11-31
+                : see e.g. `^*Curtis.+2023.+Propositional logic` @ bibliography.brec : § 2.2
+    - now, already we know \(A\) for such an argument
+        - if only we knew \(T\), as well, or had an inkling of its content, then we might work out
+          the coupling inferences \(T \to A\), and so complete the argument
+        - still, we know *this* about \(T\) because it is given: \(T\) must be true
+    - might we make a start, then, by reversing the logic?
 
-        → what (if anything) ought to be?
+              $$T \leftarrow A$$
 
-    - and let it be transformed to its own answer in the form of an algebraic proposition
+        - the idea here is this: working backwards from \(A\) through a series of inferences might reveal
+          among the concomitants of \(A\) a truth that could then serve as \(T\) for the forward argument
+            : re `forward argument` see `^*- an affirmative.+argument of the form:$`
+            : note : The suggested method has a long history, traceable as far back as classical Greece.
+              Michael Beaney labels it *analysis in the regressive conception*.
+                : see `^*Beaney.+2003` @ bibliography.brec : “Analysis is clearly being understood here
+                  in the regressive sense — as involving the working back from ‘what is sought’,
+                  taken as assumed, to something more fundamental by means of which
+                  it can then be established, through its converse, synthesis.”
+                  § 2. Ancient conceptions of analysis and the emergence of the regressive conception
+                \ yet the implied synthesis/analysis dichotomy is problematic and here I dispense with it
+    - let us try
+    - I give the remainder of the present file to the attempt
+    - to start, let the affirmative answer \(A\) be defined as follows
 
-        → \(O\) ought to be
+              $$\require{mathtools}
+              A \coloneqq\style{font-family:var(--root-family)}{
+                  \text{we ought to endure}}$$
 
-    - here the variable \(O\) stands for a prospective action or state of affairs — namely an object
-    - meanwhile, the contextual ‘ought’ makes it an object each person would have a duty
-      to direct themselves to, intent on realizing it — namely a morally incumbent end
-        / each person is so bound, for the context being moral, the duty is absolute
-          and thereby universal in application
-            : re `the context being moral` see `^*- take ‘ought’ in the moral sense$`
-    - equivalently then:
+        - here the contextual ‘ought’ makes of our endurance an object that each person would have a duty
+          to direct themselves to, intent on realizing it — namely a morally incumbent end
+            - I say this duty would bind each person because, the context being moral,
+              I assume the duty would be absolute and thereby universal in application
+                : re `the context being moral` see `^*- take ‘ought’ in the moral sense$`
+        - equivalently then:
 
-        = each has a duty to take \(O\) as an end
+              $$A \equiv \style{font-family:var(--root-family)}{
+                  \text{each has a duty to take our endurance as an end}}$$
 
-    - now let us regard this proposition as given, momentarily, that we may analyze it
-      and learn what entailments follow; for any entailment that turns out to be a fact
-      will vouch for the truth of the proposition, and might moreover yield a clue to the value of \(O\)
+    - the task now is to work backwards from this proposition and unravel its concomitants
+    - for this purpose, regard the proposition as given
 
-        duty: to take \(O\) as an end
+        duty: to take our endurance as an end
 
-    - from here, the analysis may proceed along two chains of inference:
+    - from here, it is fruitful to proceed along two chains of inference:
       one of entailed duties, the other of entailed rights
-    - the inference of entailed duties is the more robust of the two
+        : note : It happens that neither of the two chains of inference will depend on the specific
+          object of moral enquiry, namely our endurance.  Therefore the leading question might be made
+          more general and exploratory, such as, ‘What (if anything) ought to be?’  Accordingly its
+          (positive) answer might then be represented using an algebraic proposition such as:
+
+              $$A \coloneqq O \style{font-family:var(--root-family)}{\text{ ought to be}}$$
+
+          These changes would have no substantial effect on the resulting argument.
+          It would be the same as present.
+    - the chain of entailed duties is the more robust of the two
         - it begins with the following axiom
 
             axiom: having a duty to \(\phi\), one thereby has a duty to all that necessarily
               attends \(\phi\)-ing; to each of its conditions and entailments, that is
 
-        - to \(\phi\), in the present case, is to take \(O\) as an end; in other words, to will \(O\)
+        - to \(\phi\) in the present case is to take our endurance as an end; to will it, in other words
             - to will an object is to commit to making myself an *active cause* in its realization,
               and thereby to making it an *effect of my actions*
                 : cf. `^*Kant.+1785.+Groundwork` @ bibliography.brec : ‘for in the willing of an object,
@@ -44,7 +77,7 @@
             - thus I commit to self-made action, so binding myself by a pledge *to* myself
             - making this pledge is the \(\phi\) of the duty to which I am bound
                 : re `the.+(phi).+of the duty` see `^*axiom: having a duty to.+${same}`
-                : re `to which I am bound` see `^*duty: to take.+O.+as an end$`
+                : re `to which I am bound` see `^*duty: to take our endurance as an end$`
         - but this pledge is conditional on my believing that self-made action lies in my power,
           or that it will in future
             ∵ one cannot, in conformance to a duty to pledge, make that pledge but sincerely
@@ -52,7 +85,7 @@
                   context; to pledge falsely by deceiving oneself would be to renege on one’s duty,
                   putting oneself in a state of non-conformance and making oneself responsible for it
                 - the entailment of responsibility is plausible, at least, and here I take it to hold
-                    : re `plausible` see e.g.  `^*Deweese-Boyd.+2006.+Self-deception` @ bibliography.brec
+                    : re `plausible` see e.g. `^*Deweese-Boyd.+2006.+Self-deception` @ bibliography.brec
                       : ‘it’s plausible that self-deceivers can be morally responsible for their
                       self-deception … and certainly not obvious that they couldn’t be’ § 5.1
         ∴ it seems I am duty-bound to believe that self-made action lies in my power,
@@ -60,8 +93,8 @@
             : see `one.+has a duty to all that.+attends.+phi.+; to.+its conditions and entailments`s
             : see `^*- making this pledge is.+phi`
             : see `^*- but this pledge is conditional on.+believing.+self-made action lies in my power`s
-        - but a duty to believe in a proposition can only be a duty to ensure the truth
-          of that proposition: to bring it about if necessary, and to maintain it
+        - but a duty to believe a proposition can only be a duty to ensure the truth of that proposition:
+          to bring it about if necessary, and to maintain it
             ∵ this belief must, for the same reason as the pledge it conditions, be sincere
                 : re `same reason` see `^*- self-deception.+is here ruled out by the deontic context`p
             ∵ a sincere belief in a proposition can only be secured by reaching behind that proposition
@@ -96,23 +129,18 @@
             duty: to maintain one’s freedom of action
 
         - the present chain of inference is strong, I think
-        - yet the conclusion we reach seems relatively weak in its congruence with reality
-            - for this is about as close to a fact as we are likely to get,
+        - yet the conclusion we reach seems relatively weak in its congruence with truth
+            - for this is about as close to a truth as we are likely to get, I think,
               and the gap remains fairly large
-                : re `fact` see `any entailment that.+be.+will vouch for the truth of the proposition`s
-                    : re `proposition` see `^*= each has a duty to take.+O.+as an end$`
+                : re `truth` see `^*- the idea here is this:.+reveal among the concomitants.+a ${same}`p
                 ∵ while almost all strive to maintain their security and freedom,
                   relatively few would consider it a duty
                 ∵ while almost all strive to maintain their security and freedom near a maximum,
                   duty would be satisfied by a minimum
                     : re `duty.+satisfied by a minimum` see `^*∴ I am.+bound to maintain.+in some degree`
-            - as to clues to the value of \(O\), let us leave that for a moment,
-              while we see what the other chain of inference has to offer
-                : re `clues (to the value of.+O.\))` see `and might moreover yield a clue ${same}$`
     - we turn now to the inference of entailed rights
-        - looking back to the original proposition, which we take as given,
-          note that it pertains to an unqualified ‘each’ of us
-            : see `^*= each has a duty to take.+O.+as an end$`
+        - recall that proposition \(A\), which we take as given, pertains to an unqualified ‘each’ of us
+            : see `^*- equivalently then:.+each has a duty to take our endurance as an end`s
             - this makes the proposition an absolute principle, or what I will call a law
         - with this definition of law, consider the following, further principle
 
@@ -128,16 +156,16 @@
                 ∴ promoting non-conformance in another by hindering them in their duty
                   would also be wrong
             - yet non-conformance and its promotion are two different things, and their normative
-              equation here wants some further argument to justify it, which I cannot supply
+              equation here wants some further argument to justify it, which I cannot here supply
         - acknowledging this weakness, let us accept the principle in an exploratory spirit
           and learn what follows, for I have found that the conclusion yields hints
           to putting the argument on a surer footing
             / the inferences that follow are accordingly weak
-        - first, it follows that one has a right to take \(O\) as an end
-            : see `^*duty: to take.+O.+as an end$`
+        - first, it follows that one has a right to take our endurance as an end
+            : see `^*duty: to take our endurance as an end$`
             : see `^*principle: what law enjoins by duty it entitles by right`
 
-            right: to take \(O\) as an end
+            right: to take our endurance as an end
 
         - now we have recourse to the following axiom
 
@@ -147,7 +175,7 @@
                 : cf. `^*axiom: having a duty.+one.+has a duty to.+its conditions and entailments`s
         - and from here, by a line of argument similar to that of the preceding chain,
           we may infer the following attendant rights
-            : re `preceding chain` see `^*- the inference of entailed duties`
+            : re `preceding chain` see `^*- the chain of entailed duties`
 
             right: to maintain one’s power of self-made action
                 : re `right: (.+)` see `^*duty: ${same}$`
@@ -164,13 +192,11 @@
           these rights, each in turn directly from its corresponding duty in the preceding chain
             : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
         - while the present chain of inference is admittedly weaker than the preceding,
-          its conclusion agrees better with reality
-            : cf. `^*- yet the conclusion.+seems relatively weak in its congruence with reality$` @
-              `^*- the inference of entailed duties`
+          its conclusion agrees better with truth
+            : cf. `^*- yet the conclusion.+seems relatively weak in its congruence with truth$` @
+              `^*- the chain of entailed duties`
             - rights of security and freedom are almost everywhere acknowledged
                 / paid lip service, if not upheld
-        - yet this agreement of rights does little to vouch for the truth of the original proposition,
-          their entailment by that proposition being uncertain
 
 
 
