@@ -1,6 +1,6 @@
 
     - take ‘ought’ in the moral sense
-    - the question then is, ‘ought we to endure?’
+    - my question then is, ‘ought we to endure?’
     - an affirmative answer might be supported by an argument of the form:
 
               $${T \land (T \to A)\over A}$$
@@ -10,11 +10,11 @@
             : note : this is simply modus ponens
                 : see e.g. `^*Klement.+Propositional logic` @ bibliography.brec : § 5b, cited 2023-11-31
                 : see e.g. `^*Curtis.+2023.+Propositional logic` @ bibliography.brec : § 2.2
-    - now, already we know \(A\) for such an argument
-        - if only we knew \(T\), as well, or had an inkling of its content, then we might work out
+    - now, already I know \(A\) for such an argument
+        - if only I knew \(T\), as well, or had an inkling of its content, then I might work out
           the coupling inferences \(T \to A\), and so complete the argument
-        - still, we know *this* about \(T\) because it is given: \(T\) must be true
-    - might we make a start, then, by reversing the logic?
+        - still, I know *this* about \(T\) because it is given: \(T\) must be true
+    - so it occurs to me: I might make a start, then, by reversing the logic
 
               $$T \leftarrow A$$
 
@@ -29,9 +29,8 @@
                   it can then be established, through its converse, synthesis.”
                   § 2. Ancient conceptions of analysis and the emergence of the regressive conception
                 \ yet the implied synthesis/analysis dichotomy is problematic and here I dispense with it
-    - let us try
     - I give the remainder of the present file to the attempt
-    - to start, let the affirmative answer \(A\) be defined as follows
+    - to start, I define the affirmative answer \(A\) as follows
 
               $$\require{mathtools}
               A \coloneqq\style{font-family:var(--root-family)}{
@@ -47,12 +46,12 @@
               $$A \equiv \style{font-family:var(--root-family)}{
                   \text{each has a duty to take our endurance as an end}}$$
 
-    - the task now is to work backwards from this proposition and unravel its concomitants
-    - for this purpose, regard the proposition as given
+    - my task now is to work backwards from this proposition and unravel its concomitants
+    - for this purpose, I regard the proposition as given
 
         duty: to take our endurance as an end
 
-    - from here, it is fruitful to proceed along two chains of inference:
+    - from here, I find it fruitful to proceed along two chains of inference:
       one of entailed duties, the other of entailed rights
         : note : It happens that neither of the two chains of inference will depend on the specific
           object of moral enquiry, namely our endurance.  Therefore the leading question might be made
@@ -129,8 +128,8 @@
             duty: to maintain one’s freedom of action
 
         - the present chain of inference is strong, I think
-        - yet the conclusion we reach seems relatively weak in its congruence with truth
-            - for this is about as close to a truth as we are likely to get, I think,
+        - yet the conclusion I reach seems relatively weak in its congruence with truth
+            - for this is about as close to a truth as I am likely to get, I think,
               and the gap remains fairly large
                 : re `truth` see `^*- the idea here is this:.+reveal among the concomitants.+a ${same}`p
                 ∵ while almost all strive to maintain their security and freedom,
@@ -138,8 +137,8 @@
                 ∵ while almost all strive to maintain their security and freedom near a maximum,
                   duty would be satisfied by a minimum
                     : re `duty.+satisfied by a minimum` see `^*∴ I am.+bound to maintain.+in some degree`
-    - we turn now to the inference of entailed rights
-        - recall that proposition \(A\), which we take as given, pertains to an unqualified ‘each’ of us
+    - I turn now to the inference of entailed rights
+        - recall that proposition \(A\), which I take as given, pertains to an unqualified ‘each’ of us
             : see `^*- equivalently then:.+each has a duty to take our endurance as an end`s
             - this makes the proposition an absolute principle, or what I will call a law
         - with this definition of law, consider the following, further principle
@@ -156,25 +155,25 @@
                 ∴ promoting non-conformance in another by hindering them in their duty
                   would also be wrong
             - yet non-conformance and its promotion are two different things, and their normative
-              equation here wants some further argument to justify it, which I cannot here supply
-        - acknowledging that we can expect tentative conclusions at best,
-          let us persevere and learn what they are
-            - our purpose here is less to validate conclusions than to sift among them for leads
-                : see `^*- the idea here is this:.+reveal.+a.+T.+for the forward argument$`s
-        - first, it follows that one has a right to take our endurance as an end
+              equation here wants some further argument to justify it, which I cannot at present supply
+        - acknowledging that consequently I can expect tentative conclusions at best, I wish to persevere
+          and learn what they are; my purpose here is less to validate conclusions
+          than to sift among them for leads
+            : re `my purpose here` see `^*- the idea.+is.+: .+reveal.+a.+T.+for the forward argument$`s
+        - pressing on, then, it follows that one has a right to take our endurance as an end
             : see `^*duty: to take our endurance as an end$`
             : see `^*principle: what law enjoins by duty it entitles by right`
 
             right: to take our endurance as an end
 
-        - now we have recourse to the following axiom
+        - this gives me recourse to the following axiom
 
             axiom: having a right to \(\phi\), one thereby has a right to all that necessarily
               attends \(\phi\)-ing; to each of its conditions and entailments, that is
 
                 : cf. `^*axiom: having a duty.+one.+has a duty to.+its conditions and entailments`s
         - and from here, by a line of argument similar to that of the preceding chain,
-          we may infer the following attendant rights
+          I may infer the following attendant rights
             : re `preceding chain` see `^*- the chain of entailed duties`
 
             right: to maintain one’s power of self-made action
@@ -188,7 +187,7 @@
             right: to maintain one’s freedom of action
                 : re `right: (.+)` see `^*duty: ${same}$`
 
-        / alternatively we might have applied the foregoing principle repeatedly in order to infer
+        / alternatively I might have applied the foregoing principle repeatedly in order to infer
           these rights, each in turn directly from its corresponding duty in the preceding chain
             : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
         - while the present chain of inference is admittedly weaker than the preceding,
