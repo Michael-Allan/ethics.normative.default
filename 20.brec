@@ -33,7 +33,7 @@
     - to start, I define the affirmative answer \(A\) as follows
 
               $$\require{mathtools}
-              A \coloneqq\style{font-family:var(--root-family)}{
+              A \coloneqq \style{font-family:var(--root-family)}{
                   \text{we ought to endure}}$$
 
         - here the contextual ‘ought’ makes of our endurance an object that each person would have a duty
