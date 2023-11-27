@@ -128,9 +128,9 @@
             duty: to maintain one’s freedom of action
 
         - while the present chain of inference is strong, I think,
-          its conclusions agree poorly with truth
+          its conclusions agree only partly with truth
             : re `truth` see `^*- the idea is this:.+reveal among the concomitants.+a ${same}`p
-            - here I come as near as I am likely to get, yet the gap remains fairly large
+            - I come about as near to truth as I am likely to get, yet a considerable gap remains
                 ∵ while almost all strive to maintain their security and freedom,
                   relatively few would consider it a duty
                 ∵ while almost all strive to maintain their security and freedom near a maximum,
@@ -191,10 +191,33 @@
             : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
         - though the present chain of inference is weaker than the preceding,
           its conclusions agree better with truth
-            : cf. `- while the.+chain of inference is strong.+its conclusions agree poorly with truth$`s
+            : cf. `^*- while the.+chain.+is strong.+its conclusions agree only partly with truth$`s
               @ `^*- the chain of entailed duties`
-            - rights of security and freedom are almost everywhere acknowledged
-                / paid lip service, if not upheld
+            - we acknowledge rights of security and freedom almost everywhere
+                / paying them lip service, if not upholding them
+                - as such, they are a fact
+            - if somehow we knew them to be moral rights, as well,
+              then their agreement with the conclusions would be exact
+                : re `moral` see `^*- take ‘ought’ in the ${same} sense$`
+                - but that seems impossible
+                - the moral qualification could never be self evident; always it would hinge
+                  on some claim or argument that is controversial
+            - so the agreement is about as close as one could expect
+    - My search ends with two revealed truths, call them \(\mathscr{T}_d\) and \(\mathscr{T}_r\):
+
+          $$\begin{align}
+              \mathscr{T}_d & \coloneqq \style{font-family:var(--root-family)}{
+                  \text{most strive to maintain their personal security and freedom of action near a maximum}} \\[1ex]
+              \mathscr{T}_r & \coloneqq \style{font-family:var(--root-family)}{
+                  \text{rights of personal security and freedom of action are generally acknowledged}}
+              \end{align}$$
+
+        : see `^*∵ .+almost all strive to maintain their security and freedom near a maximum` @
+          `^*- the chain of entailed duties`
+        : see `^*- we acknowledge rights of security and freedom almost everywhere$` @
+          `^*- .+the inference of entailed rights$`
+    - Each is a candidate for premise \(T\) of the forward argument.
+    - Whether I can bring either to serve in that role, I attempt to learn in the next file.
 
 
 
