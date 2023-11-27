@@ -14,14 +14,14 @@
         - if only I knew \(T\), as well, or had an inkling of its content, then I might work out
           the coupling inferences \(T \to A\), and so complete the argument
         - still, I know *this* about \(T\) because it is given: \(T\) must be true
-    - so it occurs to me: I might make a start, then, by reversing the logic
+    - might I make a start, then, by reversing the logic?
 
               $$T \leftarrow A$$
 
-        - the idea here is this: working backwards from \(A\) through a series of inferences might reveal
+        - the idea is this: working backwards from \(A\) through a series of inferences might reveal
           among the concomitants of \(A\) a truth that could then serve as \(T\) for the forward argument
             : re `forward argument` see `^*- an affirmative.+argument of the form:$`
-            : note : The suggested method has a long history, traceable as far back as classical Greece.
+            : note : The mooted method has a long history, traceable as far back as classical Greece.
               Michael Beaney labels it *analysis in the regressive conception*.
                 : see `^*Beaney.+2003` @ bibliography.brec : “Analysis is clearly being understood here
                   in the regressive sense — as involving the working back from ‘what is sought’,
@@ -29,7 +29,7 @@
                   it can then be established, through its converse, synthesis.”
                   § 2. Ancient conceptions of analysis and the emergence of the regressive conception
                 \ yet the implied synthesis/analysis dichotomy is problematic and here I dispense with it
-    - I give the remainder of the present file to the attempt
+    - I attempt to do this in the remainder of the present file
     - to start, I define the affirmative answer \(A\) as follows
 
               $$\require{mathtools}
@@ -127,11 +127,10 @@
 
             duty: to maintain one’s freedom of action
 
-        - the present chain of inference is strong, I think
-        - yet the conclusion I reach seems relatively weak in its congruence with truth
-            - for this is about as close to a truth as I am likely to get, I think,
-              and the gap remains fairly large
-                : re `truth` see `^*- the idea here is this:.+reveal among the concomitants.+a ${same}`p
+        - while the present chain of inference is strong, I think,
+          its conclusions agree poorly with truth
+            : re `truth` see `^*- the idea is this:.+reveal among the concomitants.+a ${same}`p
+            - here I come as near as I am likely to get, yet the gap remains fairly large
                 ∵ while almost all strive to maintain their security and freedom,
                   relatively few would consider it a duty
                 ∵ while almost all strive to maintain their security and freedom near a maximum,
@@ -159,7 +158,7 @@
         - acknowledging that consequently I can expect tentative conclusions at best, I wish to persevere
           and learn what they are; my purpose here is less to validate conclusions
           than to sift among them for leads
-            : re `my purpose here` see `^*- the idea.+is.+: .+reveal.+a.+T.+for the forward argument$`s
+            : re `my purpose here` see `^*- the idea is this: .+reveal.+a.+T.+for the forward argument$`s
         - pressing on, then, it follows that one has a right to take our endurance as an end
             : see `^*duty: to take our endurance as an end$`
             : see `^*principle: what law enjoins by duty it entitles by right`
@@ -190,10 +189,10 @@
         / alternatively I might have applied the foregoing principle repeatedly in order to infer
           these rights, each in turn directly from its corresponding duty in the preceding chain
             : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
-        - while the present chain of inference is admittedly weaker than the preceding,
-          its conclusion agrees better with truth
-            : cf. `^*- yet the conclusion.+seems relatively weak in its congruence with truth$` @
-              `^*- the chain of entailed duties`
+        - though the present chain of inference is weaker than the preceding,
+          its conclusions agree better with truth
+            : cf. `- while the.+chain of inference is strong.+its conclusions agree poorly with truth$`s
+              @ `^*- the chain of entailed duties`
             - rights of security and freedom are almost everywhere acknowledged
                 / paid lip service, if not upheld
 
