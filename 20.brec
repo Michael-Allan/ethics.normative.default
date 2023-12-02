@@ -53,15 +53,14 @@
 
     - from here, I find it fruitful to proceed along two chains of inference:
       one of entailed duties, the other of entailed rights
-        : note : It happens that neither of the two chains of inference will depend on the specific
+        : note : It may help to note: neither of the two chains of inference will depend on the specific
           object of moral enquiry, namely our endurance.  Therefore the leading question might be made
           more general and exploratory, such as, ‘What (if anything) ought to be?’  Accordingly its
           (positive) answer might then be represented using an algebraic proposition such as:
 
               $$A \coloneqq O \style{font-family:var(--root-family)}{\text{ ought to be}}$$
 
-          These changes would have no substantial effect on the resulting argument.
-          It would be the same as present.
+          Either way, the conclusions that result are the same.
     - the chain of entailed duties is the more robust of the two
         - it begins with the following axiom
 
@@ -139,7 +138,7 @@
     - I turn now to the inference of entailed rights
         - recall that proposition \(A\), which I take as given, pertains to an unqualified ‘each’ of us
             : see `^*- equivalently then:.+each has a duty to take our endurance as an end`s
-            - this makes the proposition an absolute principle, or what I will call a law
+        - this makes the proposition an absolute principle, or what I will call a law
         - with this definition of law, consider the following, further principle
 
             principle: what law enjoins by duty it entitles by right;
@@ -147,7 +146,8 @@
 
         - it is a weak principle, I admit
             - it rests on this logic:
-                - each has the same duty, for it is universal by law
+                - each has the same duty
+                    ∵ the duty is enjoined by law
                     ∵ a law is an absolute principle, whereby it applies universally
                         : re `(a law) is (an absolute principle)` see `${2}, or what I will call ${1}$`
                 ∴ non-conformance *by anyone* would be wrong
@@ -202,22 +202,26 @@
                 - but that seems impossible
                 - the moral qualification could never be self evident; always it would hinge
                   on some claim or argument that is controversial
-            - so the agreement is about as close as one could expect
-    - My search ends with two revealed truths, call them \(\mathscr{T}_d\) and \(\mathscr{T}_r\):
+            - therefore the agreement is about as close as one could expect
+    - my backward search among the concomitants of moral proposition \(A\) ends with two revealed truths,
+      each a candidate for premise \(T\) of the forward argument
 
           $$\begin{align}
-              \mathscr{T}_d & \coloneqq \style{font-family:var(--root-family)}{
-                  \text{most strive to maintain their personal security and freedom of action near a maximum}} \\[1ex]
-              \mathscr{T}_r & \coloneqq \style{font-family:var(--root-family)}{
-                  \text{rights of personal security and freedom of action are generally acknowledged}}
+              \mathscr{T}_d \coloneqq\;
+                      & \style{font-family:var(--root-family)}{
+                  \text{nearly everyone strives to maintain his or her personal security and freedom of action}} \\[-0.4ex]
+                      & \style{font-family:var(--root-family)}{
+                  \text{near a maximum}} \\[1ex]
+              \mathscr{T}_r \coloneqq\;
+                      & \style{font-family:var(--root-family)}{
+                  \text{almost everywhere we acknowledge rights of personal security and freedom of action}}
               \end{align}$$
 
         : see `^*∵ .+almost all strive to maintain their security and freedom near a maximum` @
           `^*- the chain of entailed duties`
         : see `^*- we acknowledge rights of security and freedom almost everywhere$` @
           `^*- .+the inference of entailed rights$`
-    - Each is a candidate for premise \(T\) of the forward argument.
-    - Whether I can bring either to serve in that role, I attempt to learn in the next file.
+    - whether either can actually serve in that role, I aim to discover in the next file
 
 
 
