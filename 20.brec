@@ -141,7 +141,7 @@
         - this makes the proposition an absolute principle, or what I will call a law
         - with this definition of law, consider the following, further principle
 
-            principle: what law enjoins by duty it entitles by right;
+            principle: what law enjoins by duty it entitles by right; \ *principle of right by duty*
               given a duty to \(\phi\), one thereby gains a right to \(\phi\)
 
         - it is a weak principle, I admit
@@ -186,9 +186,10 @@
             right: to maintain one’s freedom of action
                 : re `right: (.+)` see `^*duty: ${same}$`
 
-        / alternatively I might have applied the foregoing principle repeatedly in order to infer
-          these rights, each in turn directly from its corresponding duty in the preceding chain
-            : re `foregoing (principle)` see `^*${same}: what law enjoins by duty it entitles by right`
+        / alternatively I could have got the rights above by applying the *principle of right by duty*
+          to infer each right in turn directly from its corresponding duty in the preceding chain
+            : re `(.(principle) of right by duty.)` see
+              `^*${2}: what law enjoins by duty it entitles by right.+\\ ${1}`
         - though the present chain of inference is weaker than the preceding,
           its conclusions agree better with truth
             : cf. `^*- while the.+chain.+is strong.+its conclusions agree only partly with truth$`s
