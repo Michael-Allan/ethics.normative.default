@@ -1,5 +1,22 @@
 
-    - 
+    - the previous file came to an end with two revealed truths
+
+          $$ \begin{align} \require{mathtools}
+              \mathscr{T}_d \coloneqq\;
+                      & \style{font-family:var(--root-family)}{
+                  \text{nearly everyone strives to maintain his or her personal security and freedom of action}} \\[-0.4ex]
+                      & \style{font-family:var(--root-family)}{
+                  \text{near a maximum}} \\[1ex]
+              \mathscr{T}_r \coloneqq\;
+                      & \style{font-family:var(--root-family)}{
+                  \text{almost everywhere we acknowledge rights of personal security and freedom of action}}
+              \end{align} $$
+
+        : re `came to an end.+(\{T\}_d .+ \$\$)$`s see `comes to an end.+${same}$`s @ 20.brec
+    - my task now is to test whether either truth could serve as premise \(T\) for an argument
+      that concludes with moral duty \(A\)
+
+          $$ T \to A $$
 
 
 
