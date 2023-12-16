@@ -16,14 +16,20 @@
     - my task now is to test whether either truth could serve as premise \(T\) for an argument
       that concludes with moral duty \(A\)
 
-          $$ T \to A $$
+          $$ {T \land (T \to A)\over A} $$
 
-    - if \(A\) *were* true (as such an argument would have it), then it would follow (by the reverse
-      argument from \(A\)) that both \(\mathscr{T}_d\) and \(\mathscr{T}_r\) are moral norms
-        : see `^*∴ I am duty-bound to maintain.+personal security and freedom of action` @ 20.brec
-        : see `^*- and from here.+I may infer the following attendant rights`s           @ 20.brec
-        - therefore I will begin by investigating what it would take for either of these truths
-          to *be* a moral norm in the first place
+    - now, suppose \(A\) were true (as that argument would have it)
+        - then, by the reverse inferences \(A \to T\) which I previously detailed,
+          it would follow that both \(\mathscr{T}_d\) and \(\mathscr{T}_r\) have moral correlates;
+          true morals, that is, to which they correspond
+            : see `^*∴ I am duty-bound to maintain.+personal security and freedom of action` @ 20.brec
+            : see `^*- and from here.+I may infer the following attendant rights`s           @ 20.brec
+    - I will begin, therefore, by considering what it would take for these correlations to hold even now
+      (regardless of \(A\)): for the striving of \(\mathscr{T}_d\) to *be* in conformance to moral duty,
+      and for the rights of \(\mathscr{T}_r\) to *be* moral rights
+        - if I knew what it took, then I might find the necessary ingredient already present,
+          and therewith begin to discern the inferences \(\mathscr{T}_d \to A\) or \(\mathscr{T}_r \to A\)
+          of a complete argument
 
 
 
