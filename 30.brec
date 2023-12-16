@@ -13,8 +13,8 @@
               \end{align} $$
 
         : re `came to an end.+(\{T\}_d .+ \$\$)$`s see `comes to an end.+${same}$`s @ 20.brec
-    - my task now is to test whether either truth could serve as premise \(T\) for an argument
-      that concludes with moral duty \(A\)
+    - my task now is to test whether either truth could serve as the premise \(T\) for an argument
+      that concludes with a moral duty \(A\)
 
           $$ {T \land (T \to A)\over A} $$
 
