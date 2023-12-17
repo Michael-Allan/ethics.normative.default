@@ -1,5 +1,5 @@
 
-    - the previous file came to an end with two revealed truths
+    - the inferences of the previous file came to an end touching on two facts
 
           $$ \begin{align} \require{mathtools}
               \mathscr{T}_d \coloneqq\;
@@ -13,8 +13,8 @@
               \end{align} $$
 
         : re `came to an end.+(\{T\}_d .+ \$\$)$`s see `comes to an end.+${same}$`s @ 20.brec
-    - my task now is to test whether either truth could serve as the premise \(T\) for an argument
-      that concludes with a moral duty \(A\)
+    - my task now is to test whether either of these facts could serve as the premise \(T\)
+      for an argument that concludes with a moral duty \(A\)
 
           $$ {T \land (T \to A)\over A} $$
 
@@ -24,12 +24,11 @@
           true morals, that is, to which they correspond
             : see `^*∴ I am duty-bound to maintain.+personal security and freedom of action` @ 20.brec
             : see `^*- and from here.+I may infer the following attendant rights`s           @ 20.brec
-    - I will begin, therefore, by considering what it would take for these correlations to hold even now
-      (regardless of \(A\)): for the striving of \(\mathscr{T}_d\) to *be* in conformance to moral duty,
-      and for the rights of \(\mathscr{T}_r\) to *be* moral rights
-        - if I knew what it took, then I might find the necessary ingredient already present,
-          and therewith begin to discern the inferences \(\mathscr{T}_d \to A\) or \(\mathscr{T}_r \to A\)
-          of a complete argument
+    - I will begin, therefore, by considering what it would take for those moral correlates
+      to hold even now, regardless of \(A\)
+        - if I knew what morals consist in, then I might find the necessary features
+          already present among the facts, and therewith begin to discern
+          the inferences \(\mathscr{T}_d \to A\) or \(\mathscr{T}_r \to A\) of a complete argument
 
 
 
