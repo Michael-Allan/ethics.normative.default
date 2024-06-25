@@ -1,0 +1,25 @@
+21 \ Schema of telicity
+
+        ⁠\bf T_g⁠: ⁠S⁠ does [behavioural instance] ⁠B⁠ for the sake of [goal] ⁠G⁠ means:
+            i) ⁠B⁠ tends to bring about ⁠G⁠.
+            ii) ⁠B⁠ occurs because (i.e. is brought about by the fact that) it tends to bring about ⁠G⁠.
+            : see `^*Wright.+1972.+Explanation and Teleology` @ sources.brec : p. 211
+
+        ⁠\bf T_f⁠: The function of ⁠X⁠ is ⁠Z⁠ means
+            a) ⁠X⁠ is there because it does ⁠Z⁠,
+            b) ⁠Z⁠ is a consequence (or result) of ⁠X⁠’s being there.
+            : see `^*Wright.+1973.+Functions` @ sources.brec : p. 161
+
+    - generalizing by eliding any distinction between goals and functions
+      yields the following schema of telicity
+        : re `distinction between goals and functions` e.g. `^*Wright.+1973` @ sources.brec : p. 141-2
+
+        ⁠\bf T⁠: ⁠X⁠ serves end ⁠E⁠ iff
+            ⁠\bf e⁠) ⁠X⁠ causes ⁠E⁠
+            ⁠\bf s⁠) fact (⁠\rm e⁠) causes ⁠X⁠
+            : privately re `end` see `‘end’.in schemata, warranting my use of` @
+              `things.+in service of.+an end$` @ `^^schematic object$`i @ 20.notes.brec
+
+
+
+                                                                       \ Copyright © 2024  Michael Allan.
