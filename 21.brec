@@ -1,13 +1,13 @@
 21 \ Formula of telicity
 
         ⁠\bf T_g⁠: ⁠S⁠ does [behavioural instance] ⁠B⁠ for the sake of [goal] ⁠G⁠ means:
-            i) ⁠B⁠ tends to bring about ⁠G⁠.
-            ii) ⁠B⁠ occurs because (i.e. is brought about by the fact that) it tends to bring about ⁠G⁠.
+            ⁠\mathbf i)⁠ ⁠B⁠ tends to bring about ⁠G⁠.
+            ⁠\mathbf{ii})⁠ ⁠B⁠ occurs because (i.e. is brought about by the fact that) it tends to bring about ⁠G⁠.
             : see `^*Wright.+1972.+Explanation and Teleology` @ sources.brec : p. 211
 
         ⁠\bf T_f⁠: The function of ⁠X⁠ is ⁠Z⁠ means
-            a) ⁠X⁠ is there because it does ⁠Z⁠,
-            b) ⁠Z⁠ is a consequence (or result) of ⁠X⁠’s being there.
+            ⁠\mathbf a)⁠ ⁠X⁠ is there because it does ⁠Z⁠,
+            ⁠\mathbf b)⁠ ⁠Z⁠ is a consequence (or result) of ⁠X⁠’s being there.
             : see `^*Wright.+1973.+Functions` @ sources.brec : p. 161
 
     - generalizing by eliding the distinction between practical purpose (goals)
