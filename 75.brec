@@ -1,7 +1,7 @@
 75 \ Moral precepts
 
     join+ chapter 5 (conditions) to 7 (precepts)
-        : join @ 55.brec
+        : join @ 59.brec
     join+ chapter 7 (precepts) to 9 (motivation)
         : join @ 95.brec
 
