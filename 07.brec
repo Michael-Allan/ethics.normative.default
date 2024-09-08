@@ -3,27 +3,27 @@
     - mine is a loaded question for philosophy, and I am an untrained tyro
     - but the question came to me in this form, and my goal here is only the sketch of an answer
 
-        Q. are we morally bound to a purpose of endurance?
+        ⁠\bf Q⁠: are we morally bound to a purpose of endurance?
 
     - seeing that we as living creatures are indeed bound to a purpose of endurance,
       yet thinking the binding to hold only from a theoretic standpoint of reflection,
       not also from a practical standpoint, I proceed by dividing the question as follows
 
-        ? what constitutes theoretic purpose?
+        ⁠\bf Q_1⁠: what constitutes purpose from a theoretic standpoint?
             : see @ 11.brec
 
-        ? what constitutes that purpose of endurance we share with all living creatures,
-          yet whose binding holds only from a theoretic standpoint?
+        ⁠\bf Q_2⁠: what constitutes that purpose of endurance we share with all living creatures,
+           yet which binds on us only from a theoretic standpoint?
             : see @ 13.brec
 
-        ? what then might constitute a theoretic purpose of endurance
-          whose binding holds also from a practical standpoint?
+        ⁠\bf Q_3⁠: what then might constitute a purpose of endurance whose binding
+           holds also from a practical standpoint?
             : see @ 15.brec
 
-        ? what are the conditions for that binding qua moral?
-            : see `^*. what are the conditions for the purpose binding qua moral\?$` @ 50.brec
+        ⁠\bf Q_4⁠: what are the conditions for that binding qua moral?
+            : re `^(.+conditions).+$` see `^*${same}` @ 50.brec
 
-        ? do those conditions obtain?
+        ⁠\bf Q_5⁠: do those conditions obtain?
             : see @ 50.brec
 
         : re `standpoint of reflection` see `^*Wallace.+and.+Kiesewetter.+2024.+Practical reason`
