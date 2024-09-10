@@ -1,11 +1,9 @@
-75 \ Moral precepts
+56 \ Default moral precepts
 
-    join+ chapter 5 (conditions) to 7 (precepts)
-        : join @ 59.brec
-    + infer that rights are absolute
-        : see notepad:2024-8-14c
-    join+ chapter 7 (precepts) to 9 (motivation)
-        : join @ 95.brec
+    + infer unqualified rights
+        : see notepad:2024-8-14c : from an imperfect positive duty being a duty to do one’s utmost,
+          to exercise one’s full potential — [compatible with one’s perfect duties] —
+          follow rights to the same, perfect negative duties of absolute non-hindrance
 
 
 
